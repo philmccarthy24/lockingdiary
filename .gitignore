@@ -6,6 +6,7 @@
 out/
 joint experiments/
 .DS_Store
+**/lockingdiary-backups/
 
 # User-specific files
 *.rsuser
